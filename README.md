@@ -1,5 +1,5 @@
-<h2 align="center">I'm Sven and I write code </h2>
-<h3 align="center"><i>Good at things that I know, and good at learning things that I don't.</i></h3>
+<h3 align="center">I'm Sven and I write code </h3>
+<span align="center"><i>Good at things that I know, and good at learning things that I don't.</i></span>
 <p align="center">
   <span>I ❤️ <strong>Javscript</strong> and like <strong>everything else</strong> - I'll do my best to answer questions, feel free to ask.</span>
   </p>
